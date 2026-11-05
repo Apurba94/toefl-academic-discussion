@@ -1,0 +1,11 @@
+{
+ "name": "toefl-academic-discussion",
+ "title": "Academic Discussion Writer",
+ "exam": "TOEFL",
+ "area": "TOEFL Speaking and Writing",
+ "desc": "Read a professor's question and two classmates' posts, then write your own contribution in 10 minutes.",
+ "content": [
+  "discussions.json"
+ ],
+ "n": 79
+}
